@@ -6,7 +6,7 @@
 // @author       theDumb12
 // @match        https://www.reddit.com/place*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/NiftyManiac/placebot/master/placebot_dwarf.js
+// @updateURL    https://raw.githubusercontent.com/theDumb12/AwooScript/master/awooScript.js
 // ==/UserScript==
 
 //based on the dwarf fortress script, which is based on something he found on t_d
