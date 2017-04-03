@@ -32,7 +32,7 @@ var awoo = {
 //in order of priority
 //x and y are bottom left corner of pattern
 var groups = [
-    {x: 608, y: 972, dx:0, dy:0, n:1, box:awoo},
+    {x: 216, y: 950, dx:0, dy:0, n:1, box:awoo},
     ];
 
 //ignore these points
