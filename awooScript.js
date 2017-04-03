@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AwooPlacer
 // @namespace    awooplacer
-// @version      0.1.0
+// @version      0.1.1
 // @description  /r/place bot for awoo
 // @author       theDumb12
 // @match        https://www.reddit.com/place*
